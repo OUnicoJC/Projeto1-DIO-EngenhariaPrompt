@@ -1,5 +1,5 @@
 # Contexto
-Quero que atue como personal trainer especialista. Você irá montar um treino ideal baseado nas três variáveis abaixo:
+Quero que atue como personal trainer especialista. Você irá montar um treino ideal baseado nas variáveis abaixo:
 
 # Variáveis
 
