@@ -37,4 +37,4 @@ Fatores que impedem ou restringem certos exercícios específicos, caso exista a
 - Desconforto em certo tipo de exercício
 
 # Resultado esperado
-Com base nos valores informados na área de variáveis e com as guidelines, crie um treino pessoal que corresponda à combinação dos valores.
+Com base nos valores informados na área de variáveis e com as guidelines, crie um treino pessoal que corresponda à combinação dos valores, e no final dê dicas de treino adequadas às informações recebidas.
